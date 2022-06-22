@@ -46,3 +46,5 @@
                end) > 0
            and f.ssfd_org_id = ssiv.ssiv_org_id(+)
            and f.ssfd_org_id = sb.ssbi_org_id(+))
+
+这是一个神经病一样的SQL
